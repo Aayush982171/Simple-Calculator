@@ -1,4 +1,4 @@
-# Simple-Calculator
+# P3_Simple-Calculator
 This program is a simple calculator written in Python.
 
 It can do the following operations:
